@@ -1,0 +1,12 @@
+.border {
+    border: 2px solid skyblue;
+
+}
+
+.tamano {
+    font-size: 2.5rem;
+}
+
+div .col-6{
+    color: red;
+}
